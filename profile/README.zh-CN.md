@@ -85,14 +85,6 @@
 - 🎯 **代码审查**：我们相信"代码如诗"，每次代码审查都像是在品味一首技术诗歌
 - 🚀 **持续改进**：我们的座右铭是"让支付更简单"，每个功能都经过精心打磨
 
-## 📊 项目统计
-
-<div align="center">
-
-![GitHub Organization Stats](https://github-readme-stats.vercel.app/api?username=yop-platform&show_icons=true&theme=default)
-
-</div>
-
 ## 📄 开源协议
 
 大部分项目采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 和 [MIT License](https://opensource.org/licenses/MIT) 开源协议。
