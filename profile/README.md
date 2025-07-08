@@ -84,14 +84,6 @@ We welcome every contribution from the community! You can participate in the fol
 - 🎯 **Code Reviews**: We believe "code is poetry," and every code review is like appreciating a technical poem
 - 🚀 **Continuous Improvement**: Our motto is "Make payments simpler" - every feature is carefully crafted
 
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub Organization Stats](https://github-readme-stats.vercel.app/api?username=yop-platform&show_icons=true&theme=default)
-
-</div>
-
 ## 📄 Open Source License
 
 Most projects are licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and [MIT License](https://opensource.org/licenses/MIT).
