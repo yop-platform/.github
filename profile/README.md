@@ -88,10 +88,6 @@ We welcome every contribution from the community! You can participate in the fol
 
 Most projects are licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and [MIT License](https://opensource.org/licenses/MIT).
 
-## 🧙 Remember
-
-> You can do amazing things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)!
-
 ---
 
 <div align="center">
