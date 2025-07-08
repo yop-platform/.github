@@ -89,10 +89,6 @@
 
 大部分项目采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 和 [MIT License](https://opensource.org/licenses/MIT) 开源协议。
 
-## 🧙 记住
-
-> 你可以用 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的强大功能做出令人惊叹的事情！
-
 ---
 
 <div align="center">
