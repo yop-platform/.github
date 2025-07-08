@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-yop@yeepay.com-red)](mailto:yop@yeepay.com)
 [![GitHub followers](https://img.shields.io/github/followers/yop-platform?style=social)](https://github.com/yop-platform)
 
-**Languages:** [English](#) | [中文](README_CN.md)
+**Languages:** [English](#) | [中文](README.zh-CN.md)
 </div>
 
 ## 🙋‍♀️ About Us
