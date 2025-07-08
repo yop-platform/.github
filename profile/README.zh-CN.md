@@ -1,7 +1,7 @@
 # 易宝开放平台 (YOP Platform) 👋
 
 <div align="center">
-<img src="logo.png" alt="YOP Logo" width="650">
+<img src="logo.png" alt="YOP Logo" width="600">
 
 **易宝开放平台 - 为开发者提供全面的支付解决方案**
 
