@@ -1,7 +1,7 @@
 # YOP Platform (易宝开放平台) 👋
 
 <div align="center">
-<img src="https://open.yeepay.com/favicon.ico" alt="YOP Logo" width="80" height="80">
+<img src="logo.png" alt="YOP Logo" width="650">
 
 **YOP Platform - Comprehensive Payment Solutions for Developers**
 
