@@ -38,6 +38,7 @@ We provide official SDKs for different programming languages to help you quickly
 ### Sample Projects
 - 📱 [WeChat Mini Program Payment Showcase](https://github.com/yop-platform/yop-mini-program-payment-showcase)
 - 🏢 [Merchant Onboarding Java Showcase](https://github.com/yop-platform/yop-java-merchant-netin-showcase)
+- 🤖 [YOP MCP](https://github.com/yop-platform/yop-mcp)
 - 🤖 [YeePay MCP](https://github.com/yop-platform/yeepay-mcp)
 
 ## 🌈 How to Contribute
