@@ -39,6 +39,7 @@
 ### 示例项目
 - 📱 [微信小程序支付示例](https://github.com/yop-platform/yop-mini-program-payment-showcase)
 - 🏢 [商户入网Java示例](https://github.com/yop-platform/yop-java-merchant-netin-showcase)
+- 🤖 [YOP MCP](https://github.com/yop-platform/yop-mcp)
 - 🤖 [易宝支付MCP](https://github.com/yop-platform/yeepay-mcp)
 
 ## 🌈 如何参与贡献
